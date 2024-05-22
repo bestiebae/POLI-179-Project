@@ -5,3 +5,13 @@ How effective is the developed visual model in recognizing protesters, describin
 ## Group 
 - Karla Montano
 - Rebeca Leon
+
+# Introduction
+
+# Methods 
+- Convolutional Neural Network (CNN) for Image Clarification 
+- Natural Language Processing (NLP) for Sentiment Analysis
+
+## References 
+- https://dl.acm.org/doi/pdf/10.1145/3123266.3123282
+- https://github.com/wondonghyeon/protest-detection-violence-estimation
