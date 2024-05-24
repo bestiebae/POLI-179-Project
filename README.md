@@ -16,3 +16,6 @@ In recent years, social media has become a powerful platform for documenting and
 ## References 
 - https://dl.acm.org/doi/pdf/10.1145/3123266.3123282
 - https://github.com/wondonghyeon/protest-detection-violence-estimation
+
+Donghyeon Won, Zachary C. Steinert-Threlkeld, and Jungseock Joo. 2017. Protest Activity Detection and Perceived Violence Estimation from Social Media Images. In Proceedings of the 25th ACM International Conference on Multimedia. ACM, 786-794.
+
