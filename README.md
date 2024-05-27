@@ -13,6 +13,8 @@ In recent years, social media has become a powerful platform for documenting and
 - Convolutional Neural Network (CNN) for Image Clarification 
 - Natural Language Processing (NLP) for Sentiment Analysis
 
+## Hypothesis
+
 ## References 
 - https://dl.acm.org/doi/pdf/10.1145/3123266.3123282
 - https://github.com/wondonghyeon/protest-detection-violence-estimation
